@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1503979682 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\snakel\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1503979528 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\snakel\rungame.c
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+
+1503394039 source:c:\users\obayedprodhan\desktop\temp-ib\c-adv\snakel\funcs.c
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
+1512855062 source:c:\users\ibrahimrafi\desktop\temp-ib\c-adv\snakel\funcs.c
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
+1512856587 source:c:\users\ibrahimrafi\desktop\temp-ib\c-adv\snakel\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1512855062 source:c:\users\ibrahimrafi\desktop\temp-ib\c-adv\snakel\rungame.c
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+
+1512856576 source:c:\users\ibrahimrafi\desktop\temp-ib\c-adv\snakel\about.c
+
